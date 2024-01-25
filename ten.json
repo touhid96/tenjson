@@ -1,6 +1,133 @@
 {
   "user": [
     {
+      "userName": "Viktor Jockel",
+      "profilePicture": "https://i.ibb.co/Fww88Q0/Screenshot-2024-01-25-at-07-36-00.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have passed my B1 exam of German language",
+          "date": "12 month ago",
+          "category": "Language",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/b6kMQq5/Screenshot-2024-01-25-at-07-43-41.png",
+          "postDrescription": "I have passed my B1 exam of German language with a very good result. 7 months of hard work paid off finally. Alhamdulillah 😍 Time to learn B2.",
+
+          "reaction": true,
+          "hashTag": ["#Germanb1", "#languageLearning"]
+        }
+      ]
+    },
+    {
+      "userName": "Sahil Fitzgerald",
+      "profilePicture": "https://i.ibb.co/82p2tJJ/Screenshot-2024-01-25-at-08-09-56.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "learned JavaScript and Created a Fun Project: Tic Tac Toe!",
+          "date": "Just Now",
+          "category": "Coding",
+          "readTime": "2 mins",
+          "postImage": "https://i.ibb.co/Q8P5xdy/Screenshot-2024-01-25-at-08-11-35.png",
+          "postDescription": "After months of dedication and learning, I'm thrilled to share that I've learned JavaScript. 🎉 Today, I completed my latest project: a dynamic Tic Tac Toe game! 🕹️ It was a challenging yet rewarding journey, and I'm proud of the results. 🌟 Thanks to everyone who supported me along the way! 🙌 Check out the project and let me know your thoughts. 👇 #JavaScriptJourney #TicTacToeProject #CodingAdventure",
+
+          "reaction": true,
+          "hashTag": ["#JavaScript", "#Coding", "#ProjectCompletion"]
+        }
+      ]
+    },
+
+    {
+      "userName": "M. Shawon (Ultrarunner)",
+      "profilePicture": "https://i.ibb.co/CzLhqvJ/Screenshot-2024-01-25-at-07-41-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "finished my first ever ultra marathon (51 km) ",
+          "date": "1 day ago",
+          "category": "running",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/VS6HMBD/Screenshot-2024-01-25-at-07-46-11.png",
+          "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
+
+          "reaction": true,
+          "hashTag": ["#fullmarathon", "#running"]
+        }
+      ]
+    },
+    {
+      "userName": "Jeske van Eeten",
+      "profilePicture": "https://i.ibb.co/zRFKwkW/Screenshot-2024-01-25-at-07-40-13.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have just started my own business in selling charcuterie boards",
+          "date": "1 day ago",
+          "category": "StartUp",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/9hvzHXj/Screenshot-2024-01-25-at-07-47-56.png",
+          "postDrescription": "Hi! I'm from the Netherlands and have just started my own business in selling charcuterie boards! Her's one of my boards. Looking forward to get a lot of inspiration!!",
+
+          "reaction": true,
+          "hashTag": ["#startup", "#startstartup"]
+        }
+      ]
+    },
+    {
+      "userName": "Annie Villa",
+      "profilePicture": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Learning to Swim 🏊, new journey for me",
+          "date": "Today",
+          "category": "Swimming",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
+          "postDescription": " Today marks the beginning of a new adventure  my very first day learning to swim! Excitement and a bit of nervousness fill the air, but I'm determined to conquer this challenge.  Here's to overcoming fears and diving into the world of swimming! ",
+
+          "reaction": true,
+          "hashTag": ["#Swimming", "#LearningToSwim", "#NewAdventure"]
+        }
+      ]
+    },
+    {
+      "userName": "Akmal Regula",
+      "profilePicture": "https://i.ibb.co/6YhrGNC/Screenshot-2024-01-25-at-07-41-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Champion of Bremen Prenier League(BPL)",
+          "date": "2 day ago",
+          "category": "Sports",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/2nXjBst/Screenshot-2024-01-25-at-07-49-32.png",
+          "postDrescription": "'Back-to-Back champion' of Bremen Premier League (BPL) - (2023-2022) Luisental Rocks -(2023) Bremen Vikings - (2022)",
+
+          "reaction": true,
+          "hashTag": ["#cricket", "#sports"]
+        }
+      ]
+    },
+    {
+      "userName": "Gamal Akbar",
+      "profilePicture": "https://i.ibb.co/5sQFd7t/Screenshot-2024-01-25-at-07-40-55.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have received a LeetCode t-shirt as a gift from the LeetCode website",
+          "date": "2 day ago",
+          "category": "Programming",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/QngLymm/Screenshot-2024-01-25-at-07-54-43.png",
+          "postDrescription": "I am thrilled to share that I have received a LeetCode t-shirt as a gift from the LeetCode website! This t-shirt is not just a piece of clothing, but a symbol of my work and passion for coding. Over the past year, I have been solving problems on LeetCode every day, collecting leetcoins along the way. LeetCode offers a variety of coding challenges that cover different topics and languages. It wasn't easy to maintain this habit, especially when I faced some difficult or tricky problems. But I did not give up. I kept trying, learning, and improving. Solving these problems helped me improve my skills, learn new concepts, and prepare for interviews.",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#leetcode"]
+        }
+      ]
+    },
+    {
       "userName": "Asim Damodar",
       "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
       "followStatus": "Unfollow",
@@ -49,6 +176,42 @@
           "postDrescription": "🏃‍♂️ Just crossed the finish line of my first half marathon! 🎉🥳🎉 What a fantastic way to wrap up the year with such a significant accomplishment. The journey to this moment must have been filled with challenges, dedication, and hard work, but I did it!",
           "reaction": true,
           "hashTags": ["#HalfMarathonFinisher", "#AchievementUnlocked"]
+        }
+      ]
+    },
+    {
+      "userName": "Ing La Loo",
+      "profilePicture": "https://i.ibb.co/DtfZSK6/Screenshot-2024-01-25-at-08-33-58.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Pottery Adventures with My Best Friend! ",
+          "date": "Today",
+          "category": "Art",
+          "readTime": "2 mins",
+          "postImage": "YourPotteryClassImageURL",
+          "postDescription": " Spent the day at a pottery class with my bestie, and it was an absolute blast! From shaping clay to creating unique pieces, we learned so much and had a ton of fun. ",
+
+          "reaction": true,
+          "hashTag": ["#Pottery", "#ArtClass", "#CreativeDay"]
+        }
+      ]
+    },
+    {
+      "userName": "Pricilla Asnan",
+      "profilePicture": "https://i.ibb.co/GTqxQGS/Screenshot-2024-01-25-at-08-26-34.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "I wrote a paper called 'European Political Interest in the Middle East'",
+          "date": "Today",
+          "category": "Research",
+          "readTime": "3 mins",
+          "postImage": "https://i.ibb.co/yN1pttp/Screenshot-2024-01-25-at-08-28-49.png",
+          "postDescription": " Today, I delved into the complex landscape of European political interest in the Middle East and penned my thoughts in a paper.  Exploring the intricacies of international relations and the dynamics shaping the region was a fascinating journey.",
+
+          "reaction": true,
+          "hashTag": ["#PoliticalInterest", "#MiddleEast", "#Research"]
         }
       ]
     },
@@ -200,106 +363,15 @@
       "followStatus": "Unfollow",
       "posts": [
         {
-          "title": "My paper titled 'Towards More Effective AI-Assisted Programming' has been published at ICSE SEIP 2023",
+          "title": "My paper titled has published in SEIP 2023",
           "date": "4 month ago",
           "category": "Research",
           "readTime": "1 min",
-          "postImage": "https://i.ibb.co/CWsS8JQ/priyanpost.png",
+          "postImage": "https://i.ibb.co/QngLymm/Screenshot-2024-01-25-at-07-54-43.png",
           "postDrescription": "Exciting news! 🎉 My paper titled 'Towards More Effective AI-Assisted Programming' has been published at ICSE SEIP 2023. Grateful for the opportunity to contribute to the field of AI and programming. Huge thanks to everyone who supported me on this journey!",
 
           "reaction": true,
           "hashTag": ["#phdlife", "#dataviz"]
-        }
-      ]
-    },
-    {
-      "userName": "Viktor Jockel",
-      "profilePicture": "https://i.ibb.co/DkYdGK6/download-10.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "I have passed my B1 exam of German language",
-          "date": "12 month ago",
-          "category": "Language",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/YNqH6S3/robiul-post.jpg",
-          "postDrescription": "I have passed my B1 exam of German language with a very good result. 7 months of hard work paid off finally. Alhamdulillah 😍 Time to learn B2.",
-
-          "reaction": true,
-          "hashTag": ["#Germanb1", "#languageLearning"]
-        }
-      ]
-    },
-
-    {
-      "userName": "M. Shawon (Ultrarunner)",
-      "profilePicture": "https://i.ibb.co/Tr6NbP2/shawon-profile.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "finished my first ever ultra marathon (51 km) ",
-          "date": "1 day ago",
-          "category": "running",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/1zCwhgj/shawon.jpg",
-          "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
-
-          "reaction": true,
-          "hashTag": ["#fullmarathon", "#running"]
-        }
-      ]
-    },
-    {
-      "userName": "Jeske van Eeten",
-      "profilePicture": "https://i.ibb.co/GJbL5JN/jeske-profile.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "I have just started my own business in selling charcuterie boards",
-          "date": "1 day ago",
-          "category": "StartUp",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/s3J6tgD/jeska-post.jpg",
-          "postDrescription": "Hi! I'm from the Netherlands and have just started my own business in selling charcuterie boards! Her's one of my boards. Looking forward to get a lot of inspiration!!",
-
-          "reaction": true,
-          "hashTag": ["#startup", "#startstartup"]
-        }
-      ]
-    },
-    {
-      "userName": "Akmal Regula",
-      "profilePicture": "https://i.ibb.co/S5dgHpw/akib-profile.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "Champion of Bremen Prenier League(BPL)",
-          "date": "2 day ago",
-          "category": "Sports",
-          "readTime": "1 min",
-          "postImage": "https://i.ibb.co/683CkPc/akib-post.jpg",
-          "postDrescription": "'Back-to-Back champion' of Bremen Premier League (BPL) - (2023-2022) Luisental Rocks -(2023) Bremen Vikings - (2022)",
-
-          "reaction": true,
-          "hashTag": ["#cricket", "#sports"]
-        }
-      ]
-    },
-    {
-      "userName": "Gamal Akbar",
-      "profilePicture": "https://i.ibb.co/bNZF4Xs/gamal-profile.jpg",
-      "followStatus": "Unfollow",
-      "posts": [
-        {
-          "title": "I have received a LeetCode t-shirt as a gift from the LeetCode website",
-          "date": "2 day ago",
-          "category": "Programming",
-          "readTime": "3 min",
-          "postImage": "https://i.ibb.co/KKSZsgx/gamal-post.jpg",
-          "postDrescription": "I am thrilled to share that I have received a LeetCode t-shirt as a gift from the LeetCode website! This t-shirt is not just a piece of clothing, but a symbol of my work and passion for coding. Over the past year, I have been solving problems on LeetCode every day, collecting leetcoins along the way. LeetCode offers a variety of coding challenges that cover different topics and languages. It wasn't easy to maintain this habit, especially when I faced some difficult or tricky problems. But I did not give up. I kept trying, learning, and improving. Solving these problems helped me improve my skills, learn new concepts, and prepare for interviews.",
-
-          "reaction": true,
-          "hashTag": ["#programming", "#leetcode"]
         }
       ]
     }
