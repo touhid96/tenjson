@@ -1,7 +1,133 @@
 {
   "user": [
     {
-      "userName": "Viktor Jockel",
+      "userName": "Hannan kumer",
+      "profilePicture": "https://i.ibb.co/TgkWDC1/Screenshot-2024-01-30-at-16-45-40.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have completed my 62 Day streak of my journey to learn German from duolingo",
+          "date": "2 month ago",
+          "category": "Language",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/7KgzcCP/Screenshot-2024-01-30-at-16-48-19.png",
+          "postDrescription": "Must say this has helped me a lot in my day to day conversations at market places, restaurants etc. Was quite surprised to see myself order “ Half chicken for take away, please cut it into 2 pieces ” by saying “Halbes Hähnchen zum Mitnehmen, bitte schneiden zwei Stücke ” Though I might not be grammatically correct, I definitely managed to convey my message. Would totally recommend duolingo to people wanting to learn a new language for casual conversations.",
+
+          "reaction": true,
+          "hashTag": ["#German", "#languageLearning"]
+        }
+      ]
+    },
+    {
+      "userName": "Lina Mcintosh",
+      "profilePicture": "https://i.ibb.co/ygHbzZp/Screenshot-2024-01-30-at-19-21-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Crafting My Own Dinner Plate",
+          "date": "2 month ago",
+          "category": "Pottery",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/b7KvZLp/Screenshot-2024-01-30-at-19-19-14.png",
+          "postDrescription": "Decided to make my own dinner plate out of clay. Used a spinning wheel to shape it. Picked earthy colors for painting. Put it in a hot oven to make it strong. Now, my plate is ready  not just for meals, but for stories and smiles too.  ",
+
+          "reaction": true,
+          "hashTag": ["#Pottery", "#LovePottary"]
+        }
+      ]
+    },
+    {
+      "userName": "Kumar Hemmanth",
+      "profilePicture": "https://i.ibb.co/J7BY9W6/Screenshot-2024-01-30-at-19-24-52.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "“Downturns are moments of opportunity” summing up My 3 years commitment",
+          "date": "12 month ago",
+          "category": "Investment",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/TvYgmf4/Screenshot-2024-01-30-at-19-24-05.png",
+          "postDrescription": "What started as a means to control my bad spending habits has now grown into my most prized possession as I finally get my best return with fund hitting all time high. I started my market journey in April 2022, just before a big crash in the market. I kept thinking how stupid I was. At least I could have bought those sneakers rather than losing money for nothing. But one lesson I learnt was “Don’t get too greedy and don’t get too scared” and kept it going.",
+
+          "reaction": true,
+          "hashTag": ["#stock", "#investment"]
+        }
+      ]
+    },
+    {
+      "userName": "Joan Cervantes",
+      "profilePicture": "https://i.ibb.co/wzrtSyW/Screenshot-2024-01-30-at-19-32-14.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I build my first desk, and I am really proud ...",
+          "date": "2 min ago",
+          "category": "Creativity",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/cvTqnMR/Screenshot-2024-01-30-at-19-31-56.png",
+          "postDrescription": "So, I finally got around to building my first desk, and I've gotta say, I'm pretty stoked with how it turned out. Went for a mix of oak and ebonized-oak for that classic yet slightly upscale vibe, and I think it looks sick. I'm not gonna sugarcoat it; this was a bit of a learning curve. Some parts were a breeze, others, not so much. But hey, it's standing, it looks decent, and I didn't lose any fingers in the process. Win-win, right? If you're into that DIY scene or just curious about how I put it all together, I've got a bunch of videos up on my Instagram (@vinticiousberlin). If you’ve got any questions or want to work on a project together, hmu there.",
+
+          "reaction": true,
+          "hashTag": ["#Art", "#CreativeDay"]
+        }
+      ]
+    },
+    {
+      "userName": "Disha Jahan",
+      "profilePicture": "https://i.ibb.co/5rnjk4j/Screenshot-2024-01-31-at-00-22-29.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Reflections from a Month of Journaling",
+          "date": "1 hour ago",
+          "category": "Personal Development",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/5rnjk4j/Screenshot-2024-01-31-at-00-22-29.png",
+          "postDrescription": "Today marks a significant milestone for me—I've officially completed a month of journaling! Somedays, I struggled to find the motivation to put pen to paper. But now, looking back at these 31 days, I'm filled with a sense of accomplishment and gratitude. Journaling has become more than just a daily habit; it's become a lifeline, where I can pour out my thoughts, hopes, and dreams. It's taught me discipline, showing up every day even when the words don't flow effortlessly. But in those moments of struggle, I found resilience and the power of consistency. This simple act of writing has made me more aware of my days, helping me find beauty in the mundane and purpose in the chaos. Journaling grounds me, reminding me to slow down, breathe, and savor the present. So here's to the next chapter of this journey, filled with blank pages waiting to be filled with stories and dreams. Here's to more moments of introspection, growth, and gratitude..",
+
+          "reaction": true,
+          "hashTag": ["#JournalingJourney", "#Reflections"]
+        }
+      ]
+    },
+    {
+      "userName": "Jonty Hopkins",
+      "profilePicture": "https://i.ibb.co/pjfHZfr/Screenshot-2024-01-30-at-19-36-17.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My solopreneur story",
+          "date": "Just now",
+          "category": "StartUp",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/Q8ZLst3/Screenshot-2024-01-30-at-19-35-59.png",
+          "postDrescription": "My entrepreneurship journey started in 2016 when I believed I was Mark Zuckerberg. It took 2 years to make my first $1 online. Later, I grew a SaaS to $3,000 MRR, but I started to see my journey as a failure after 4 years of grind. I got depressed in 2021 and quit entrepreneurship. I worked for Tai Lopez as a product manager to overcome my depression. It worked because I finally had a sense of purpose. When I got fired in November 2021, it didn’t matter. I had a dream. I discovered my role models on Twitter: Pieter Levels, Danny Postma, and other cool kids working solo on their projects from anywhere in the world, making much more money than needed to live comfortably. I wanted freedom. I was living in Bali, $20,000 in the bank, no audience, and bad coding skills.",
+
+          "reaction": true,
+          "hashTag": ["#StartUp", "#IloveStartup"]
+        }
+      ]
+    },
+    {
+      "userName": "Sufyan Lopez",
+      "profilePicture": "https://i.ibb.co/M7K9N0S/Screenshot-2024-01-31-at-00-51-30.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I cooked Biriyani at my kitchen today",
+          "date": "Just now",
+          "category": "Cooking",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/7VC44qz/gdvh62a28n461.jpg",
+          "postDrescription": "After having a delicious biriyani at a dinner with my Indian friend some days ago, I was determined to learn the art of making it. Today, I finally did it, and the biriyani looks amazing!",
+
+          "reaction": true,
+          "hashTag": ["#Cooking", "#Art"]
+        }
+      ]
+    },
+    {
+      "userName": "Viktoriya Joya",
       "profilePicture": "https://i.ibb.co/Fww88Q0/Screenshot-2024-01-25-at-07-36-00.png",
       "followStatus": "Unfollow",
       "posts": [
@@ -19,6 +145,42 @@
       ]
     },
     {
+      "userName": "Haider Richard",
+      "profilePicture": "https://i.ibb.co/qM85XCv/Screenshot-2024-01-31-at-00-40-16.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I learned react native and cracked the interview in just 2 month",
+          "date": "just now",
+          "category": "Programming",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/YhxVzw4/Screenshot-2024-01-31-at-00-40-56.png",
+          "postDrescription": "Just wrapped up a 2-month journey diving into React Native, and the progress is surreal! From struggling to write a single line of code at the start to facing an interview yesterday  and guess what? I nailed it! It's been a rollercoaster of late-night coding sessions, debugging adventures, and countless aha moments. Yesterday's interview was the ultimate test, and I not only survived but thrived!  Shared my newfound React Native expertise with confidence. To everyone in the coding trenches, keep at it! Two months ago, I was a beginner, and now I'm feeling like a React Native maestro.",
+
+          "reaction": true,
+          "hashTag": ["#ReactNativeJourney", "#CodingAdventure"]
+        }
+      ]
+    },
+    {
+      "userName": "Ayman Siddik",
+      "profilePicture": "https://i.ibb.co/ssDxMk9/Screenshot-2024-01-29-at-09-35-25.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Zero to Full marathon",
+          "date": "just now",
+          "category": "Language",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/ssDxMk9/Screenshot-2024-01-29-at-09-35-25.png",
+          "postDrescription": "Full Marathon 42.2KM First yearly target Even 6 months back, I didn’t think I’ll be able to run for 6 hours straight. This was the toughest endurance test in my life. What a feeling afterwards! Next up, Ironman 70.3? A bit of the background, I can play 10+ sports but never considered running to be one of them. Last year in March, I ran my first mini marathon of 7.5KM in Hatirjheel. I instantly got hooked and then pushed all my friends and families to participate in one of these running events. But why? I got to track and test my endurance level I got inspired to take my health seriously I loved the participants who are always super supportive. One of the best communities for sure It helped me get my stamina back My endurance in other sports and even in usual desk job got a lot better The medals are super amazing. I have finally started collecting medals When you run with your friends and family, it’s a great mini adventure for all I got to have some ambitious health related targets Well there’s a few more which probably won’t be relatable for many. So, I’ll skip those. Those who are still reading, I genuinely invite you to participate in one of the mini marathons first & you can test it yourself if it’s a thing for you as well.",
+
+          "reaction": true,
+          "hashTag": ["#Runnig", "#Fitness"]
+        }
+      ]
+    },
+    {
       "userName": "Sahil Fitzgerald",
       "profilePicture": "https://i.ibb.co/82p2tJJ/Screenshot-2024-01-25-at-08-09-56.png",
       "followStatus": "Follow",
@@ -29,7 +191,7 @@
           "category": "Coding",
           "readTime": "2 mins",
           "postImage": "https://i.ibb.co/Q8P5xdy/Screenshot-2024-01-25-at-08-11-35.png",
-          "postDescription": "After months of dedication and learning, I'm thrilled to share that I've learned JavaScript. 🎉 Today, I completed my latest project: a dynamic Tic Tac Toe game! 🕹️ It was a challenging yet rewarding journey, and I'm proud of the results. 🌟 Thanks to everyone who supported me along the way! 🙌 Check out the project and let me know your thoughts. 👇 #JavaScriptJourney #TicTacToeProject #CodingAdventure",
+          "postDrescription": "After months of dedication and learning, I'm thrilled to share that I've learned JavaScript. 🎉 Today, I completed my latest project: a dynamic Tic Tac Toe game! 🕹️ It was a challenging yet rewarding journey, and I'm proud of the results. 🌟 Thanks to everyone who supported me along the way! 🙌 Check out the project and let me know your thoughts. 👇 #JavaScriptJourney #TicTacToeProject #CodingAdventure",
 
           "reaction": true,
           "hashTag": ["#JavaScript", "#Coding", "#ProjectCompletion"]
@@ -47,7 +209,7 @@
           "date": "1 day ago",
           "category": "running",
           "readTime": "1 min",
-          "postImage": "https://i.ibb.co/VS6HMBD/Screenshot-2024-01-25-at-07-46-11.png",
+          "postImage": "https://i.ibb.co/ssDxMk9/Screenshot-2024-01-29-at-09-35-25.png",
           "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
 
           "reaction": true,
@@ -74,6 +236,24 @@
       ]
     },
     {
+      "userName": "Qasim Skinner",
+      "profilePicture": "https://i.ibb.co/s9TDTFv/Screenshot-2024-01-30-at-19-41-12.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Exploring Shirt-Making for Fun and Profit – Need Tips on Making the Ink Stick!",
+          "date": "Today",
+          "category": "Art",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/N76czjq/Screenshot-2024-01-30-at-19-40-52.png",
+          "postDrescription": " So, I've decided to dive into the world of shirt-making because, well, why not turn a passion into some extra cash, right? But here's the thing – I'm in need of some advice on making sure the ink stays put on the shirts. I've been tinkering around, trying different methods, but it's proving to be a bit trickier than expected. I know there are some seasoned shirt-making pros out there, and I could use your wisdom. Feel free to drop your knowledge in the comments or shoot me a message. I'm all ears (well, eyes in this case)",
+
+          "reaction": true,
+          "hashTag": ["#tshirt", "#making t-shirt", "#NewAdventure"]
+        }
+      ]
+    },
+    {
       "userName": "Annie Villa",
       "profilePicture": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
       "followStatus": "Follow",
@@ -84,7 +264,7 @@
           "category": "Swimming",
           "readTime": "1 min",
           "postImage": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
-          "postDescription": " Today marks the beginning of a new adventure  my very first day learning to swim! Excitement and a bit of nervousness fill the air, but I'm determined to conquer this challenge.  Here's to overcoming fears and diving into the world of swimming! ",
+          "postDrescription": " Today marks the beginning of a new adventure  my very first day learning to swim! Excitement and a bit of nervousness fill the air, but I'm determined to conquer this challenge.  Here's to overcoming fears and diving into the world of swimming! ",
 
           "reaction": true,
           "hashTag": ["#Swimming", "#LearningToSwim", "#NewAdventure"]
@@ -124,6 +304,40 @@
 
           "reaction": true,
           "hashTag": ["#programming", "#leetcode"]
+        }
+      ]
+    },
+    {
+      "userName": "Franziska Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Solo travel in Istanbul ",
+          "date": "Just now",
+          "category": "Travelling",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/jWWWjVv/Screenshot-2024-01-30-at-19-47-09.png",
+          "postDrescription": "Just spent in and around Istanbul all by myself, and it was a wild ride! From navigating the maze-like markets to befriending fellow travelers, every moment was an adventure. I learned that when in doubt, always follow the smell of freshly baked baklava! :) And let's not forget the impromptu dance parties in the streets or my questionable attempts at speaking Turkish. Just saying, vague sign language is a universal language, right? I realized that solo travel isn't just about discovering new places; it's about discovering yourself in the process. Istanbul, you've shown me that the best stories are written when you dare to step out of your comfort zone. Here's to more adventures, more laughter, and of course, more baklava-induced bliss!",
+          "reaction": true,
+          "hashTags": ["#SoloAdventures", "#IstanbulDiaries"]
+        }
+      ]
+    },
+    {
+      "userName": "Franziska Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": " Embracing Uncomfortable Adventures",
+          "date": "9 days ago",
+          "category": "Personal Development",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/hKLGRKN/Screenshot-2024-01-31-at-00-19-08.png",
+          "postDrescription": "Stepped out of my comfort zone big time tonight! Summoned all my courage, walked up to a group of strangers at the bar, and asked if I could join them. To my surprise, they welcomed me with open arms, and what followed was an unforgettable night of laughter, new friendships, and unexpected adventures. Turns out, the best memories are often found on the other side of discomfort. Here's to taking risks, making connections, and embracing the unknown!  ",
+          "reaction": true,
+          "hashTags": ["#SeekingDiscomfort", "#UnexpectedAdventures"]
         }
       ]
     },
@@ -189,8 +403,8 @@
           "date": "Today",
           "category": "Art",
           "readTime": "2 mins",
-          "postImage": "YourPotteryClassImageURL",
-          "postDescription": " Spent the day at a pottery class with my bestie, and it was an absolute blast! From shaping clay to creating unique pieces, we learned so much and had a ton of fun. ",
+          "postImage": "https://i.ibb.co/DGxsKPd/Screenshot-2024-01-25-at-09-08-18.png",
+          "postDrescription": " Spent the day at a pottery class with my bestie, and it was an absolute blast! From shaping clay to creating unique pieces, we learned so much and had a ton of fun. ",
 
           "reaction": true,
           "hashTag": ["#Pottery", "#ArtClass", "#CreativeDay"]
@@ -208,7 +422,7 @@
           "category": "Research",
           "readTime": "3 mins",
           "postImage": "https://i.ibb.co/yN1pttp/Screenshot-2024-01-25-at-08-28-49.png",
-          "postDescription": " Today, I delved into the complex landscape of European political interest in the Middle East and penned my thoughts in a paper.  Exploring the intricacies of international relations and the dynamics shaping the region was a fascinating journey.",
+          "postDrescription": " Today, I delved into the complex landscape of European political interest in the Middle East and penned my thoughts in a paper.  Exploring the intricacies of international relations and the dynamics shaping the region was a fascinating journey.",
 
           "reaction": true,
           "hashTag": ["#PoliticalInterest", "#MiddleEast", "#Research"]
@@ -372,6 +586,24 @@
 
           "reaction": true,
           "hashTag": ["#phdlife", "#dataviz"]
+        }
+      ]
+    },
+    {
+      "userName": "Ayman Siddiq",
+      "profilePicture": "https://i.ibb.co/DKw4BdD/422936831-952008316276309-4289537410486038527-n-1.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have fulfilled my first yearly target",
+          "date": "1 month ago",
+          "category": "Running",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/DKw4BdD/422936831-952008316276309-4289537410486038527-n-1.jpg",
+          "postDrescription": "Full Marathon 42.2KM First yearly target Even 6 months back, I didn’t think I’ll be able to run for 6 hours straight. This was the toughest endurance test in my life. What a feeling afterwards! Next up, Ironman 70.3? A bit of the background, I can play 10+ sports but never considered running to be one of them. Last year in March, I ran my first mini marathon of 7.5KM in Hatirjheel. I instantly got hooked and then pushed all my friends and families to participate in one of these running events. But why? I got to track and test my endurance level I got inspired to take my health seriously I loved the participants who are always super supportive. One of the best communities for sure It helped me get my stamina back My endurance in other sports and even in usual desk job got a lot better The medals are super amazing. I have finally started collecting medals When you run with your friends and family, it’s a great mini adventure for all I got to have some ambitious health related targets Well there’s a few more which probably won’t be relatable for many. So, I’ll skip those. Those who are still reading, I genuinely invite you to participate in one of the mini marathons first & you can test it yourself if it’s a thing for you as well.",
+
+          "reaction": true,
+          "hashTag": ["#running", "#Fitness"]
         }
       ]
     }
