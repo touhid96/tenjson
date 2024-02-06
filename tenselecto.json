@@ -1,0 +1,573 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Joan Cervantes",
+      "profilePicture": "https://i.ibb.co/wzrtSyW/Screenshot-2024-01-30-at-19-32-14.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I build my first desk, and I am really proud ...",
+          "date": "2 min ago",
+          "category": "Art and Craft",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/cvTqnMR/Screenshot-2024-01-30-at-19-31-56.png",
+          "postDrescription": "So, I finally got around to building my first desk, and I've gotta say, I'm pretty stoked with how it turned out. Went for a mix of oak and ebonized-oak for that classic yet slightly upscale vibe, and I think it looks sick. I'm not gonna sugarcoat it; this was a bit of a learning curve. Some parts were a breeze, others, not so much. But hey, it's standing, it looks decent, and I didn't lose any fingers in the process. Win-win, right? If you're into that DIY scene or just curious about how I put it all together, I've got a bunch of videos up on my Instagram (@vinticiousberlin). If you’ve got any questions or want to work on a project together, hmu there.",
+
+          "reaction": true,
+          "hashTag": ["#Art", "#CreativeDay"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userName": "Lina Mcintosh",
+      "profilePicture": "https://i.ibb.co/ygHbzZp/Screenshot-2024-01-30-at-19-21-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Crafting My Own Dinner Plate",
+          "date": "2 month ago",
+          "category": "Art and Craft",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Decided to make my own dinner plate out of clay. Used a spinning wheel to shape it. Picked earthy colors for painting. Put it in a hot oven to make it strong. Now, my plate is ready  not just for meals, but for stories and smiles too.  ",
+
+          "reaction": true,
+          "hashTag": ["#Pottery", "#LovePottary"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userName": "Ing La Loo",
+      "profilePicture": "https://i.ibb.co/DtfZSK6/Screenshot-2024-01-25-at-08-33-58.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Pottery Adventures with My Best Friend! ",
+          "date": "Today",
+          "category": "Art and Craft",
+          "readTime": "2 mins",
+          "postImage": "",
+          "postDrescription": " Spent the day at a pottery class with my bestie, and it was an absolute blast! From shaping clay to creating unique pieces, we learned so much and had a ton of fun. ",
+
+          "reaction": true,
+          "hashTag": ["#Pottery", "#ArtClass", "#CreativeDay"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userName": "Farzana Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Solo travel in Istanbul ",
+          "date": "Just now",
+          "category": "Hobbies",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/jWWWjVv/Screenshot-2024-01-30-at-19-47-09.png",
+          "postDrescription": "Just spent in and around Istanbul all by myself, and it was a wild ride! From navigating the maze-like markets to befriending fellow travelers, every moment was an adventure. I learned that when in doubt, always follow the smell of freshly baked baklava! :) And let's not forget the impromptu dance parties in the streets or my questionable attempts at speaking Turkish. Just saying, vague sign language is a universal language, right? I realized that solo travel isn't just about discovering new places; it's about discovering yourself in the process. Istanbul, you've shown me that the best stories are written when you dare to step out of your comfort zone. Here's to more adventures, more laughter, and of course, more baklava-induced bliss!",
+          "reaction": true,
+          "hashTags": ["#SoloAdventures", "#IstanbulDiaries"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "userName": "Tatiana Williamson",
+      "profilePicture": "https://i.ibb.co/cJknCMd/Screenshot-2024-02-01-at-15-18-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Learning the guitar",
+          "date": "13 min ago days ago",
+          "category": "Skills development          ",
+          "readTime": "2 min",
+          "postImage": "",
+          "postDrescription": "Alright, so I've decided to pick up the guitar and dive headfirst into this whole music thing. Got myself a cheap acoustic and some beginner's guide off the internet—let's see where this takes me! Gotta admit, my fingers feel like they're doing some kind of twisted yoga with all these chord shapes, but hey, Rome wasn't built in a day, right? Here's to making some noise and hoping it eventually sounds like music! ",
+          "reaction": true,
+          "hashTags": ["#GuitarNewbie", "#StrummingAlong"]
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "userName": "Niha xo",
+      "profilePicture": "https://i.ibb.co/tLVtQ2F/Screenshot-2024-01-31-at-19-36-10.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "One of the cutest mammals I came across in the jungles",
+          "date": "1 days ago",
+          "category": "Hobbies",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/fMkWkzT/Screenshot-2024-01-22-at-09-19-39.png",
+          "postDrescription": "One of the cutest mammals I came across in the jungles of Costa Rica! the Mexican mouse opossum. This species reaction to lights is not to run but to freeze, making it really easy for a quick shot.",
+
+          "reaction": true,
+          "hashTags": ["#Wildlifephotography", "#photography", "#Sustainability"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "userName": "Hannan kumer",
+      "profilePicture": "https://i.ibb.co/TgkWDC1/Screenshot-2024-01-30-at-16-45-40.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have completed my 62 Day streak of my journey to learn German from duolingo",
+          "date": "2 month ago",
+          "category": "Learning",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/7KgzcCP/Screenshot-2024-01-30-at-16-48-19.png",
+          "postDrescription": "Must say this has helped me a lot in my day to day conversations at market places, restaurants etc. Was quite surprised to see myself order “ Half chicken for take away, please cut it into 2 pieces ” by saying “Halbes Hähnchen zum Mitnehmen, bitte schneiden zwei Stücke ” Though I might not be grammatically correct, I definitely managed to convey my message. Would totally recommend duolingo to people wanting to learn a new language for casual conversations.",
+
+          "reaction": true,
+          "hashTag": ["#German", "#languageLearning"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "userName": "Beau Fernandez",
+      "profilePicture": "https://i.ibb.co/9p5Zgnp/Screenshot-2024-02-06-at-10-35-40.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Learned a new Geoguessr trick! ",
+          "date": "2 min ago",
+          "category": "Learning",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "So last week I decided to become better at Geoguessr (the game where you have to guess the location of a random Google maps Image) and I set myself to learn new tricks. It turns out that the quality of the image can give you many clues as to where it comes from. In short, there are four types of resolutions and with that simple fact you can narrow down the possibilities and get a big advantage. I will be posting my Geoguessr learning journey here, so follow if interested! ",
+
+          "reaction": true,
+          "hashTag": ["#Learning", "#Geoguessr"]
+        }
+      ]
+    },
+
+    {
+      "id": 12,
+      "userName": "Sahil Fitzgerald",
+      "profilePicture": "https://i.ibb.co/82p2tJJ/Screenshot-2024-01-25-at-08-09-56.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "learned JavaScript and Created a Fun Project: Tic Tac Toe!",
+          "date": "Just Now",
+          "category": "Learning",
+          "readTime": "2 mins",
+          "postImage": "https://i.ibb.co/Q8P5xdy/Screenshot-2024-01-25-at-08-11-35.png",
+          "postDrescription": "After months of dedication and learning, I'm thrilled to share that I've learned JavaScript. 🎉 Today, I completed my latest project: a dynamic Tic Tac Toe game! 🕹️ It was a challenging yet rewarding journey, and I'm proud of the results. 🌟 Thanks to everyone who supported me along the way! 🙌 Check out the project and let me know your thoughts. 👇 #JavaScriptJourney #TicTacToeProject #CodingAdventure",
+
+          "reaction": true,
+          "hashTag": ["#JavaScript", "#Coding", "#ProjectCompletion"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "userName": "Sufyan Lopez",
+      "profilePicture": "https://i.ibb.co/M7K9N0S/Screenshot-2024-01-31-at-00-51-30.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I cooked Biriyani at my kitchen today",
+          "date": "Just now",
+          "category": "Food",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/7VC44qz/gdvh62a28n461.jpg",
+          "postDrescription": "After having a delicious biriyani at a dinner with my Indian friend some days ago, I was determined to learn the art of making it. Today, I finally did it, and the biriyani looks amazing!",
+
+          "reaction": true,
+          "hashTag": ["#Cooking", "#Art"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "userName": "Minali Silvana",
+      "profilePicture": "https://i.ibb.co/YfspYD6/Screenshot-2024-01-31-at-19-10-34.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Hungarian Food or indian Food",
+          "date": "1 days ago",
+          "category": "Food",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/8dwmT1Y/Screenshot-2024-02-06-at-10-48-35.png",
+          "postDrescription": "I was @Rosenstein( #Best place to have hungairan cuisine in Budapest) and when I was served My Indian friend went like 'what they have indian Food'. Yes guys my new find, hungarian food looks like indian food. Buuuuttttt dont be decieved by the looks, It taste hungarian",
+          "reaction": true,
+          "hashTags": ["#indianfood", "#hungarionfood"]
+        }
+      ]
+    },
+
+    {
+      "id": 16,
+      "userName": "Bill Brennan",
+      "profilePicture": "",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My pizza reciepe for dinner",
+          "date": "Just now",
+          "category": "Food",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Tonight's dinner was a delightful journey into the world of homemade pizza. Starting with a classic pizza dough recipe, I kneaded the soft and elastic dough, allowing it to rise to perfection. The kitchen was soon filled with the irresistible aroma of tomato sauce simmering on the stove, enriched with herbs and spices for that authentic flavor. Assembling the pizza became a creative process, spreading the sauce over the dough and generously layering it with a blend of mozzarella and Parmesan cheeses. Toppings ranging from pepperoni to colorful bell peppers added a burst of flavors and textures. The oven transformed my culinary creation into a golden, bubbling masterpiece. The final result was a crisp, yet tender, crust supporting a medley of savory ingredients—a homemade pizza that not only satisfied my craving but also provided a sense of accomplishment and the joy of sharing a delicious meal with loved ones.",
+
+          "reaction": true,
+          "hashTag": ["#pizza", "#pizzadinner"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "userName": "Kumar Hemmanth",
+      "profilePicture": "https://i.ibb.co/J7BY9W6/Screenshot-2024-01-30-at-19-24-52.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "“Downturns are moments of opportunity” summing up My 3 years commitment",
+          "date": "12 month ago",
+          "category": "Personal Development",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/TvYgmf4/Screenshot-2024-01-30-at-19-24-05.png",
+          "postDrescription": "What started as a means to control my bad spending habits has now grown into my most prized possession as I finally get my best return with fund hitting all time high. I started my market journey in April 2022, just before a big crash in the market. I kept thinking how stupid I was. At least I could have bought those sneakers rather than losing money for nothing. But one lesson I learnt was “Don’t get too greedy and don’t get too scared” and kept it going.",
+
+          "reaction": true,
+          "hashTag": ["#stock", "#investment"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "userName": "Disha Jahan",
+      "profilePicture": "https://i.ibb.co/5rnjk4j/Screenshot-2024-01-31-at-00-22-29.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Reflections from a Month of Journaling",
+          "date": "1 hour ago",
+          "category": "Personal Development",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Today marks a significant milestone for me—I've officially completed a month of journaling! Somedays, I struggled to find the motivation to put pen to paper. But now, looking back at these 31 days, I'm filled with a sense of accomplishment and gratitude. Journaling has become more than just a daily habit; it's become a lifeline, where I can pour out my thoughts, hopes, and dreams. It's taught me discipline, showing up every day even when the words don't flow effortlessly. But in those moments of struggle, I found resilience and the power of consistency. This simple act of writing has made me more aware of my days, helping me find beauty in the mundane and purpose in the chaos. Journaling grounds me, reminding me to slow down, breathe, and savor the present. So here's to the next chapter of this journey, filled with blank pages waiting to be filled with stories and dreams. Here's to more moments of introspection, growth, and gratitude..",
+
+          "reaction": true,
+          "hashTag": ["#JournalingJourney", "#Reflections"]
+        }
+      ]
+    },
+
+    {
+      "id": 20,
+      "userName": "Franziska Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": " Embracing Uncomfortable Adventures",
+          "date": "9 days ago",
+          "category": "Personal Development",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/hKLGRKN/Screenshot-2024-01-31-at-00-19-08.png",
+          "postDrescription": "Stepped out of my comfort zone big time tonight! Summoned all my courage, walked up to a group of strangers at the bar, and asked if I could join them. To my surprise, they welcomed me with open arms, and what followed was an unforgettable night of laughter, new friendships, and unexpected adventures. Turns out, the best memories are often found on the other side of discomfort. Here's to taking risks, making connections, and embracing the unknown!  ",
+          "reaction": true,
+          "hashTags": ["#SeekingDiscomfort", "#UnexpectedAdventures"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "userName": "Pricilla Asnan",
+      "profilePicture": "https://i.ibb.co/GTqxQGS/Screenshot-2024-01-25-at-08-26-34.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "I wrote a paper called 'European Political Interest in the Middle East'",
+          "date": "Today",
+          "category": "Research and Development",
+          "readTime": "3 mins",
+          "postImage": "https://i.ibb.co/yN1pttp/Screenshot-2024-01-25-at-08-28-49.png",
+          "postDrescription": " Today, I delved into the complex landscape of European political interest in the Middle East and penned my thoughts in a paper.  Exploring the intricacies of international relations and the dynamics shaping the region was a fascinating journey.",
+
+          "reaction": true,
+          "hashTag": ["#PoliticalInterest", "#MiddleEast", "#Research"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "userName": "Nithin Helmuth",
+      "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Published Research Paper in Renewable Energy",
+          "date": "2 days ago",
+          "category": "Research and Development",
+          "readTime": "7 min",
+          "postImage": "https://i.ibb.co/fMkWkzT/Screenshot-2024-01-22-at-09-19-39.png",
+          "postDrescription": "📚 Exciting News! Thrilled to share that my research paper in the field of renewable energy has been officially published! This journey has been a culmination of tireless efforts, countless hours in the lab, and an unwavering passion for sustainable solutions. Today, I want to take you behind the scenes of this scientific exploration and share the significance of the findings. ",
+
+          "reaction": true,
+          "hashTags": ["#RenewableEnergyResearch", "#ScientificDiscovery", "#Sustainability"]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "userName": "Zahra Roswitha",
+      "profilePicture": "https://i.ibb.co/1Qkdc43/9.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My paper titled has published in SEIP 2023",
+          "date": "4 month ago",
+          "category": "Research and Development",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Exciting news! 🎉 My paper titled 'Towards More Effective AI-Assisted Programming' has been published at ICSE SEIP 2023. Grateful for the opportunity to contribute to the field of AI and programming. Huge thanks to everyone who supported me on this journey!",
+
+          "reaction": true,
+          "hashTag": ["#phdlife", "#dataviz"]
+        }
+      ]
+    },
+
+    {
+      "id": 26,
+      "userName": "M. Shawon (Ultrarunner)",
+      "profilePicture": "https://i.ibb.co/CzLhqvJ/Screenshot-2024-01-25-at-07-41-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "finished my first ever ultra marathon (51 km) ",
+          "date": "1 day ago",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
+
+          "reaction": true,
+          "hashTag": ["#fullmarathon", "#running"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "userName": "Annie Villa",
+      "profilePicture": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Learning to Swim 🏊, new journey for me",
+          "date": "Today",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/47cK2kp/Screenshot-2024-01-25-at-08-16-21.png",
+          "postDrescription": " Today marks the beginning of a new adventure  my very first day learning to swim! Excitement and a bit of nervousness fill the air, but I'm determined to conquer this challenge.  Here's to overcoming fears and diving into the world of swimming! ",
+          "reaction": true,
+          "hashTag": ["#Swimming", "#LearningToSwim", "#NewAdventure"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "userName": "Akmal Regula",
+      "profilePicture": "https://i.ibb.co/6YhrGNC/Screenshot-2024-01-25-at-07-41-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Champion of Bremen Prenier League(BPL)",
+          "date": "2 day ago",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/2nXjBst/Screenshot-2024-01-25-at-07-49-32.png",
+          "postDrescription": "'Back-to-Back champion' of Bremen Premier League (BPL) - (2023-2022) Luisental Rocks -(2023) Bremen Vikings - (2022)",
+
+          "reaction": true,
+          "hashTag": ["#cricket", "#sports"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "userName": "Jonty Hopkins",
+      "profilePicture": "https://i.ibb.co/pjfHZfr/Screenshot-2024-01-30-at-19-36-17.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My solopreneur story",
+          "date": "Just now",
+          "category": "Entrepreneurship",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/Q8ZLst3/Screenshot-2024-01-30-at-19-35-59.png",
+          "postDrescription": "My entrepreneurship journey started in 2016 when I believed I was Mark Zuckerberg. It took 2 years to make my first $1 online. Later, I grew a SaaS to $3,000 MRR, but I started to see my journey as a failure after 4 years of grind. I got depressed in 2021 and quit entrepreneurship. I worked for Tai Lopez as a product manager to overcome my depression. It worked because I finally had a sense of purpose. When I got fired in November 2021, it didn’t matter. I had a dream. I discovered my role models on Twitter: Pieter Levels, Danny Postma, and other cool kids working solo on their projects from anywhere in the world, making much more money than needed to live comfortably. I wanted freedom. I was living in Bali, $20,000 in the bank, no audience, and bad coding skills.",
+
+          "reaction": true,
+          "hashTag": ["#StartUp", "#IloveStartup"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "userName": "Surinder Pankraz",
+      "profilePicture": "https://i.ibb.co/DCFDTsW/download-8.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Embarking on a New Journey: Launching 'EcoTech Innovations'",
+          "date": "1 day ago",
+          "category": "Entrepreneurship",
+          "readTime": "4 min",
+          "postImage": "https://i.ibb.co/0jHt2qQ/Screenshot-2024-01-22-at-09-34-39.png",
+          "postDrescription": "🚀 Exciting News! Today marks the beginning of a new chapter as I officially launch my startup, 'EcoTech Innovations.' The journey from ideation to execution has been an exhilarating adventure, and I'm thrilled to share the vision behind this endeavor.",
+
+          "reaction": true,
+          "hashTags": ["#EcoTechInnovations", "#SustainableStartup"]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "userName": "Isabelle Salazar",
+      "profilePicture": "https://i.ibb.co/SmcM7Lz/Screenshot-2024-02-06-at-11-00-45.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Building a Consultancy Business from Scratch was not easy",
+          "date": "1 day ago",
+          "category": "Entrepreneurship",
+          "readTime": "4 min",
+          "postImage": "",
+          "postDrescription": "My entrepreneurial journey of establishing a consultancy company without a profound knowledge of the field was undoubtedly challenging, but it began with a determination to leverage my transferable skills and passion for problem-solving. Choosing a specific niche allowed me to stand out and focus my efforts on becoming an expert in that particular domain. Continuous learning became a cornerstone of my approach, as I immersed myself in industry literature, attended workshops, and built a network of professionals for guidance. Networking efforts, both online and offline, proved instrumental in connecting with potential clients and collaborators. By positioning myself as a problem solver and emphasizing my skills, I attracted clients who valued practical solutions. Leveraging technology, embracing feedback, and celebrating small wins played crucial roles in the iterative process of refining my services and adapting to industry trends. The journey highlighted that starting a consultancy business requires resilience, a growth mindset, and a commitment to staying relevant in a dynamic business landscape. As of now i proudly say that i achieved what i wanted so far.",
+
+          "reaction": true,
+          "hashTags": ["#consultency", "#SustainableStartup"]
+        }
+      ]
+    },
+
+    {
+      "id": 33,
+      "userName": "Ghufran Imram",
+      "profilePicture": "https://i.ibb.co/x2N3CKR/5.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Launched My First Mobile App",
+          "date": "1 day ago",
+          "category": "Technology",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/jbNvjkg/Screenshot-2024-01-22-at-09-21-17.png",
+          "postDrescription": "After months of coding and testing, I finally launched my first mobile app! It's a productivity tool to help users stay organized. Excited to see it in action!",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#loveprogramming"]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "userName": "Smith Oliver",
+      "profilePicture": "https://i.ibb.co/wWtLxGB/photo-1560264280-88b68371db39-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces-edg.jpg",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Agriculture Technology Advancement",
+          "date": "2 days ago",
+          "category": "Technology",
+          "readTime": "7 min",
+          "postImage": "https://i.ibb.co/ZVLQB2B/image.jpg",
+          "postDescription": "The advancement of agricultural technology, especially with regard to the incorporation of robots, bears witness to the revolutionary potential of contemporary farming methods. Agricultural robotics has evolved from basic automation to complex technology including drone-assisted monitoring, driverless cars, and crop-cultivating robots. By addressing issues including labor shortages, maximizing resource utilization, and raising total crop yields, this technology advancement seeks to support productive and sustainable farming. In the context of this rapidly evolving landscape, my team and I took on a major project – the development of a crop cultivation robot. This narrative unfolds with the robot itself recounting the struggles of its learning journey. I am not just a machine; I am the embodiment of relentless learning and evolution—a crop cultivation robot with a story to tell. My journey began in the digital realm, a convergence of intricate lines of code and the promise of revolutionizing agriculture. Tasked with mastering the art of cultivation, my early days were marked by the simplicity of basic functions like seed planting and weed removal. Yet, the challenge lay in the complexity of remembering and executing these actions with precision. When I started my adventure as a crop cultivation robot was how to encode and recall all of the many tasks that go into the process. The lines of code that controlled my basic operations, such weed removal and seed sowing, needed to be carefully considered. For instance, the code snippet below captures the essence of how I execute a basic seed planting operation. The code snippet attached above. This simple yet critical piece of code ensures that I assess soil moisture levels, irrigate if necessary, and then proceed with seed planting. Remembering and executing these sequences demanded precision, and the journey involved refining and expanding my codebase to encompass increasingly sophisticated tasks. The challenge lay in creating a robust memory system within the code, allowing me to autonomously recall and execute intricate cultivation actions. As my learning journey progresses, so does the complexity of the code that fuels my capabilities in the vast realm of crop cultivation robotics. 🌾🤖🌱 After all, at the end, we had a huge output, as an achievement",
+          "reaction": true,
+          "hashTags": ["#CropRobotics", "#CodingChallenges", "#AutonomousCultivationTech"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "userName": "Olive Klein",
+      "profilePicture": "https://i.ibb.co/ftw7HrX/Screenshot-2024-02-06-at-11-18-13.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "AI's Revolutionary Leap in Healthcare",
+          "date": "1 day ago",
+          "category": "Technology",
+          "readTime": "3 min",
+          "postImage": "",
+          "postDrescription": "As i am exploring in the field of technology, join me in this journey and lets dive into the cutting-edge world of Artificial Intelligence (AI) in the medical field. Witness the transformative power of AI algorithms in diagnostics, personalized treatment plans, and patient care. From machine learning-driven predictions to image recognition enhancing medical imaging, the future of healthcare is being redefined. Stay tuned for a closer look at how AI is becoming an indispensable partner in the quest for improved medical outcomes and patient well-being.",
+
+          "reaction": true,
+          "hashTag": ["#AI", "#Technology"]
+        }
+      ]
+    },
+
+    {
+      "id": 37,
+      "userName": "Matilda Rathor",
+      "profilePicture": "https://i.ibb.co/hC7MCTv/Screenshot-2024-02-06-at-11-33-11.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completed a Mindful Meditation Challenge",
+          "date": "1 min ago",
+          "category": "Yoga and Meditation",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/2Ynywd6/Screenshot-2024-02-06-at-11-25-41.png",
+          "postDrescription": "Today, after weeks of struggling to quiet my racing thoughts, I finally had a breakthrough in my meditation practice. As I sat in stillness, I felt a sense of calm wash over me like a gentle wave, and for the first time in ages, my mind was blissfully quiet. It may seem like a small victory, but to me, it's a reminder that progress comes in moments, not milestones. Here's to finding peace in the chaos, one breath at a time. ",
+          "reaction": false,
+          "hashTags": ["#MindfulMeditation", "#InnerPeace", "#WellnessJourney"]
+        }
+      ]
+    },
+
+    {
+      "id": 39,
+      "userName": "Yonzee lee",
+      "profilePicture": "https://i.ibb.co/Jd4DhqC/Screenshot-2024-02-06-at-11-32-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Celebrating a Three-Month Yoga Journey - A Personal Achievement Unlocked",
+          "date": "3 day ago",
+          "category": "Yoga and Meditation",
+          "readTime": "5 min",
+          "postImage": "https://i.ibb.co/hDyBKwf/Screenshot-2024-02-06-at-11-26-04.png",
+          "postDrescription": "Hey All!! Today is a special day as it marks a significant milestone in my wellness journey – I've successfully completed three months of dedicated yoga classes! From conquering challenging poses to delving into the profound connection between my mind and body, this journey has truly transformed me. Yoga has not only improved my flexibility and strength but has also become a pillar of mental resilience. I'm excited to share this achievement with you and invite you to celebrate with me. It's not just about physical milestones; it's about unlocking a new chapter of holistic well-being through the wisdom of this ancient practice. Let's cheers to health, balance, and the continuous journey towards the best version of ourselves!",
+          "reaction": false,
+          "hashTags": ["#Wellness", "#transformation", "#WellnessJourney"]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "userName": "Edie Hendricks",
+      "profilePicture": "https://i.ibb.co/gVzDwBz/Screenshot-2024-02-06-at-11-34-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completing 30 days of Yoga!",
+          "date": "",
+          "category": "Yoga and Meditation",
+          "readTime": "5 min",
+          "postImage": "",
+          "postDrescription": "I did the 30 yoga challenge today! I have to say it came with a lot of benefits! I got some flexibility, there is a bit more definition in my abdomen. I think I'm handelling anxiety better. I will continue doing it daily through February since feel like I am getting fitter and lost twelve Ibs. I am adding arm exercises to try and help my upper body strength. My goal is to get to ten full push-ups by the end of the year which feels attainable with more work. Excited for the next 30 days!",
+          "reaction": false,
+          "hashTags": ["#Yoga", "#InnerPeace", "#WellnessJourney"]
+        }
+      ]
+    }
+  ]
+}

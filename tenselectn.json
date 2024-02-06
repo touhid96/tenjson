@@ -1,0 +1,577 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userName": "Joan Cervantes",
+      "profilePicture": "https://i.ibb.co/wzrtSyW/Screenshot-2024-01-30-at-19-32-14.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I build my first desk, and I am really proud ...",
+          "date": "2 min ago",
+          "category": "Art and Craft",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/cvTqnMR/Screenshot-2024-01-30-at-19-31-56.png",
+          "postDrescription": "So, I finally got around to building my first desk, and I've gotta say, I'm pretty stoked with how it turned out. Went for a mix of oak and ebonized-oak for that classic yet slightly upscale vibe, and I think it looks sick. I'm not gonna sugarcoat it; this was a bit of a learning curve. Some parts were a breeze, others, not so much. But hey, it's standing, it looks decent, and I didn't lose any fingers in the process. Win-win, right? If you're into that DIY scene or just curious about how I put it all together, I've got a bunch of videos up on my Instagram (@vinticiousberlin). If you’ve got any questions or want to work on a project together, hmu there.",
+
+          "reaction": true,
+          "hashTag": ["#Art", "#CreativeDay"]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "userName": "Lucas",
+      "profilePicture": "https://i.ibb.co/dB07DTM/Screenshot-2024-01-31-at-19-20-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Handmade bomber jacket I made using recycled fabrics",
+          "date": "9 days ago",
+          "category": "Art and Craft",
+          "readTime": "6 min",
+          "postImage": "https://i.ibb.co/ccL5hfz/Screenshot-2024-01-31-at-19-18-48.png",
+          "postDrescription": "Handmade bomber jacket I made using recycled fabrics.The pattern was made from a self drafted pattern I made based off of a mens large bodice block I got from the school I went to (blanche macdonald). I was inspired by vintage military bomber jackets. The body fabric is wool with a cotton lining. All the fabrics are soured second hand, as well as the zipper and ribbing ",
+          "reaction": true,
+          "hashTags": ["#makingjacket", "#Sewing"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userName": "Ing La Loo",
+      "profilePicture": "https://i.ibb.co/DtfZSK6/Screenshot-2024-01-25-at-08-33-58.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "Pottery Adventures with My Best Friend! ",
+          "date": "Today",
+          "category": "Art and Craft",
+          "readTime": "2 mins",
+          "postImage": "",
+          "postDrescription": " Spent the day at a pottery class with my bestie, and it was an absolute blast! From shaping clay to creating unique pieces, we learned so much and had a ton of fun. ",
+
+          "reaction": true,
+          "hashTag": ["#Pottery", "#ArtClass", "#CreativeDay"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userName": "Farzana Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Solo travel in Istanbul ",
+          "date": "Just now",
+          "category": "Hobbies",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/jWWWjVv/Screenshot-2024-01-30-at-19-47-09.png",
+          "postDrescription": "Just spent in and around Istanbul all by myself, and it was a wild ride! From navigating the maze-like markets to befriending fellow travelers, every moment was an adventure. I learned that when in doubt, always follow the smell of freshly baked baklava! :) And let's not forget the impromptu dance parties in the streets or my questionable attempts at speaking Turkish. Just saying, vague sign language is a universal language, right? I realized that solo travel isn't just about discovering new places; it's about discovering yourself in the process. Istanbul, you've shown me that the best stories are written when you dare to step out of your comfort zone. Here's to more adventures, more laughter, and of course, more baklava-induced bliss!",
+          "reaction": true,
+          "hashTags": ["#SoloAdventures", "#IstanbulDiaries"]
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "userName": "Liorit Hiltrude",
+      "profilePicture": "https://i.ibb.co/3hgSQ9V/download3.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Published First Book",
+          "date": "5 days ago",
+          "category": "Hobbies",
+          "readTime": "5 min",
+          "postImage": "",
+          "postDrescription": "📚 Thrilled to share that I've published my first book! This journey of creativity, perseverance, and storytelling has been incredibly rewarding. Here's to many more chapters and adventures in the world of writing. 🖋️📖 #AuthorLife #BookPublished",
+          "reaction": true,
+          "hashTags": ["#AuthorLife", "#BookPublished"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "userName": "Niha xo",
+      "profilePicture": "https://i.ibb.co/tLVtQ2F/Screenshot-2024-01-31-at-19-36-10.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "One of the cutest mammals I came across in the jungles",
+          "date": "1 days ago",
+          "category": "Hobbies",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/fMkWkzT/Screenshot-2024-01-22-at-09-19-39.png",
+          "postDrescription": "One of the cutest mammals I came across in the jungles of Costa Rica! the Mexican mouse opossum. This species reaction to lights is not to run but to freeze, making it really easy for a quick shot.",
+
+          "reaction": true,
+          "hashTags": ["#Wildlifephotography", "#photography", "#Sustainability"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "userName": "Hannan kumer",
+      "profilePicture": "https://i.ibb.co/TgkWDC1/Screenshot-2024-01-30-at-16-45-40.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have completed my 62 Day streak of my journey to learn German from duolingo",
+          "date": "2 month ago",
+          "category": "Learning",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/7KgzcCP/Screenshot-2024-01-30-at-16-48-19.png",
+          "postDrescription": "Must say this has helped me a lot in my day to day conversations at market places, restaurants etc. Was quite surprised to see myself order “ Half chicken for take away, please cut it into 2 pieces ” by saying “Halbes Hähnchen zum Mitnehmen, bitte schneiden zwei Stücke ” Though I might not be grammatically correct, I definitely managed to convey my message. Would totally recommend duolingo to people wanting to learn a new language for casual conversations.",
+
+          "reaction": true,
+          "hashTag": ["#German", "#languageLearning"]
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "userName": "Tom Winters",
+      "profilePicture": "https://i.ibb.co/fXytmgZ/Screenshot-2024-02-06-at-10-37-22.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My Journey of Career Transformation",
+          "date": "1 day ago",
+          "category": "Learning",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "This year was a turning point in my career as a 37-year-old mother of two who is well-versed in sales and marketing and possesses a wide range of soft skills. Having made up my mind to learn programming in particular, I decided to focus on Python and started the '100 Days of Code' course on Udemy. The drawback? With my family and a full-time job to balance, I could only dedicate 20 to 30 minutes a day to my online coursework. Day 1 and Day 2 took me about three weeks to complete, which is a monument to my perseverance in the face of difficulty. The reality check arrived quickly, as doubters questioned if it was possible to succeed in programming in such a short amount of time. However, I'm looking for inspiration from you all. Are there other people who, like me, are juggling a lot of duties while yet daring to hope for a career in coding? My ambition is to use my newly acquired talents to earn a part-time income in the future as I persevere through the 100 Days of Code. Though the journey may take longer than the customary 100 days, every line of code represents an achievement. Talk about your experiences and insights, and together, let's build a community that encourages dreamers like us. I am delighted to share my motivation and progress as a programmer ",
+
+          "reaction": true,
+          "hashTag": ["#coding", "#100dayscode"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "userName": "Sahil Fitzgerald",
+      "profilePicture": "https://i.ibb.co/82p2tJJ/Screenshot-2024-01-25-at-08-09-56.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "learned JavaScript and Created a Fun Project: Tic Tac Toe!",
+          "date": "Just Now",
+          "category": "Learning",
+          "readTime": "2 mins",
+          "postImage": "https://i.ibb.co/Q8P5xdy/Screenshot-2024-01-25-at-08-11-35.png",
+          "postDrescription": "After months of dedication and learning, I'm thrilled to share that I've learned JavaScript. 🎉 Today, I completed my latest project: a dynamic Tic Tac Toe game! 🕹️ It was a challenging yet rewarding journey, and I'm proud of the results. 🌟 Thanks to everyone who supported me along the way! 🙌 Check out the project and let me know your thoughts. 👇 #JavaScriptJourney #TicTacToeProject #CodingAdventure",
+
+          "reaction": true,
+          "hashTag": ["#JavaScript", "#Coding", "#ProjectCompletion"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "userName": "Sufyan Lopez",
+      "profilePicture": "https://i.ibb.co/M7K9N0S/Screenshot-2024-01-31-at-00-51-30.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I cooked Biriyani at my kitchen today",
+          "date": "Just now",
+          "category": "Food",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/7VC44qz/gdvh62a28n461.jpg",
+          "postDrescription": "After having a delicious biriyani at a dinner with my Indian friend some days ago, I was determined to learn the art of making it. Today, I finally did it, and the biriyani looks amazing!",
+
+          "reaction": true,
+          "hashTag": ["#Cooking", "#Art"]
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "userName": "Mohandas Hashim",
+      "profilePicture": "https://i.ibb.co/njXYwk2/Screenshot-2024-01-22-at-09-07-16.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Delicious Homemade Pasta",
+          "date": "1 day ago",
+          "category": "Food",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/njXYwk2/Screenshot-2024-01-22-at-09-07-16.png",
+          "postDrescription": "Just made my own homemade pasta from scratch for the first time! Used a traditional recipe with flour and eggs. The result was amazing. Can't believe I made it myself!",
+
+          "reaction": true,
+          "hashTag": ["#delicious", "#lovemyfood"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "userName": "Bill Brennan",
+      "profilePicture": "",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My pizza reciepe for dinner",
+          "date": "Just now",
+          "category": "Food",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Tonight's dinner was a delightful journey into the world of homemade pizza. Starting with a classic pizza dough recipe, I kneaded the soft and elastic dough, allowing it to rise to perfection. The kitchen was soon filled with the irresistible aroma of tomato sauce simmering on the stove, enriched with herbs and spices for that authentic flavor. Assembling the pizza became a creative process, spreading the sauce over the dough and generously layering it with a blend of mozzarella and Parmesan cheeses. Toppings ranging from pepperoni to colorful bell peppers added a burst of flavors and textures. The oven transformed my culinary creation into a golden, bubbling masterpiece. The final result was a crisp, yet tender, crust supporting a medley of savory ingredients—a homemade pizza that not only satisfied my craving but also provided a sense of accomplishment and the joy of sharing a delicious meal with loved ones.",
+
+          "reaction": true,
+          "hashTag": ["#pizza", "#pizzadinner"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "userName": "Kumar Hemmanth",
+      "profilePicture": "https://i.ibb.co/J7BY9W6/Screenshot-2024-01-30-at-19-24-52.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "“Downturns are moments of opportunity” summing up My 3 years commitment",
+          "date": "12 month ago",
+          "category": "Personal Development",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/TvYgmf4/Screenshot-2024-01-30-at-19-24-05.png",
+          "postDrescription": "What started as a means to control my bad spending habits has now grown into my most prized possession as I finally get my best return with fund hitting all time high. I started my market journey in April 2022, just before a big crash in the market. I kept thinking how stupid I was. At least I could have bought those sneakers rather than losing money for nothing. But one lesson I learnt was “Don’t get too greedy and don’t get too scared” and kept it going.",
+
+          "reaction": true,
+          "hashTag": ["#stock", "#investment"]
+        }
+      ]
+    },
+
+    {
+      "id": 19,
+      "userName": "Arianna Reilly",
+      "profilePicture": "https://i.ibb.co/1b2Zrn1/Screenshot-2024-02-01-at-09-07-38.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "I overcome my public speaking fear",
+          "date": "Today",
+          "category": "Personal Development",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Just wanted to share a little victory on my journey. Public speaking used to give me major butterflies, but recently, it kicked it up a notch with nausea vibes.  But here's the cool part  I decided to face it head-on! Deep breaths, mindful moments, and a sprinkle of visualization turned my fear into a strength. From small settings to bigger stages, I conquered them all.  Big shoutout to my awesome supervisor for having my back and the pros who gave me game-changing strategies. The stage that once felt like a battlefield is now my playground. Moral of the story: You can turn your challenges into triumphs. Don't be shy to share your struggles and seek support. You got this!",
+
+          "reaction": true,
+          "hashTag": ["#Publicspeaking", "#FeratoTriump"]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "userName": "Franziska Burger",
+      "profilePicture": "https://i.ibb.co/WDpDXLr/Screenshot-2024-01-30-at-19-46-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": " Embracing Uncomfortable Adventures",
+          "date": "9 days ago",
+          "category": "Personal Development",
+          "readTime": "2 min",
+          "postImage": "https://i.ibb.co/hKLGRKN/Screenshot-2024-01-31-at-00-19-08.png",
+          "postDrescription": "Stepped out of my comfort zone big time tonight! Summoned all my courage, walked up to a group of strangers at the bar, and asked if I could join them. To my surprise, they welcomed me with open arms, and what followed was an unforgettable night of laughter, new friendships, and unexpected adventures. Turns out, the best memories are often found on the other side of discomfort. Here's to taking risks, making connections, and embracing the unknown!  ",
+          "reaction": true,
+          "hashTags": ["#SeekingDiscomfort", "#UnexpectedAdventures"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "userName": "Pricilla Asnan",
+      "profilePicture": "https://i.ibb.co/GTqxQGS/Screenshot-2024-01-25-at-08-26-34.png",
+      "followStatus": "Follow",
+      "posts": [
+        {
+          "title": "I wrote a paper called 'European Political Interest in the Middle East'",
+          "date": "Today",
+          "category": "Research and Development",
+          "readTime": "3 mins",
+          "postImage": "https://i.ibb.co/yN1pttp/Screenshot-2024-01-25-at-08-28-49.png",
+          "postDrescription": " Today, I delved into the complex landscape of European political interest in the Middle East and penned my thoughts in a paper.  Exploring the intricacies of international relations and the dynamics shaping the region was a fascinating journey.",
+
+          "reaction": true,
+          "hashTag": ["#PoliticalInterest", "#MiddleEast", "#Research"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "userName": "Nithin Helmuth",
+      "profilePicture": "https://i.ibb.co/98xtP4G/6.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Published Research Paper in Renewable Energy",
+          "date": "2 days ago",
+          "category": "Research and Development",
+          "readTime": "7 min",
+          "postImage": "https://i.ibb.co/fMkWkzT/Screenshot-2024-01-22-at-09-19-39.png",
+          "postDrescription": "📚 Exciting News! Thrilled to share that my research paper in the field of renewable energy has been officially published! This journey has been a culmination of tireless efforts, countless hours in the lab, and an unwavering passion for sustainable solutions. Today, I want to take you behind the scenes of this scientific exploration and share the significance of the findings. ",
+
+          "reaction": true,
+          "hashTags": ["#RenewableEnergyResearch", "#ScientificDiscovery", "#Sustainability"]
+        }
+      ]
+    },
+
+    {
+      "id": 24,
+      "userName": "Lana Cooke",
+      "profilePicture": "https://i.ibb.co/XjrvRT9/Screenshot-2024-02-06-at-10-55-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "How Data Science is Shaping Our Digital Landscape",
+          "date": "4 month ago",
+          "category": "Research and Development",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Researching and exploring the data-driven revolution with the powerful impact of Data Science on our digital world. From predictive analytics to uncovering hidden patterns, data scientists are reshaping industries. Join us on a journey through the realm of big data, machine learning, and artificial intelligence, as we unravel the mysteries behind the algorithms driving innovation and decision-making in today's dynamic digital landscape.",
+
+          "reaction": true,
+          "hashTag": ["#datascience", "#dataviz"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "userName": "Ayman Siddiq",
+      "profilePicture": "https://i.ibb.co/DKw4BdD/422936831-952008316276309-4289537410486038527-n-1.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "I have fulfilled my first yearly target",
+          "date": "1 month ago",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/DKw4BdD/422936831-952008316276309-4289537410486038527-n-1.jpg",
+          "postDrescription": "Full Marathon 42.2KM First yearly target Even 6 months back, I didn’t think I’ll be able to run for 6 hours straight. This was the toughest endurance test in my life. What a feeling afterwards! Next up, Ironman 70.3? A bit of the background, I can play 10+ sports but never considered running to be one of them. Last year in March, I ran my first mini marathon of 7.5KM in Hatirjheel. I instantly got hooked and then pushed all my friends and families to participate in one of these running events. But why? I got to track and test my endurance level I got inspired to take my health seriously I loved the participants who are always super supportive. One of the best communities for sure It helped me get my stamina back My endurance in other sports and even in usual desk job got a lot better The medals are super amazing. I have finally started collecting medals When you run with your friends and family, it’s a great mini adventure for all I got to have some ambitious health related targets Well there’s a few more which probably won’t be relatable for many. So, I’ll skip those. Those who are still reading, I genuinely invite you to participate in one of the mini marathons first & you can test it yourself if it’s a thing for you as well.",
+
+          "reaction": true,
+          "hashTag": ["#running", "#Fitness"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "userName": "M. Shawon (Ultrarunner)",
+      "profilePicture": "https://i.ibb.co/CzLhqvJ/Screenshot-2024-01-25-at-07-41-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "finished my first ever ultra marathon (51 km) ",
+          "date": "1 day ago",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "",
+          "postDrescription": "Alhamdulillah 🙂 Many many  thanks to my ALMIGHTY ❤ I have finished my first ever ultra marathon (51 km) strongly without any muscle fatigue 🙂 And now I am good in physically 🙂",
+
+          "reaction": true,
+          "hashTag": ["#fullmarathon", "#running"]
+        }
+      ]
+    },
+
+    {
+      "id": 28,
+      "userName": "Akmal Regula",
+      "profilePicture": "https://i.ibb.co/6YhrGNC/Screenshot-2024-01-25-at-07-41-08.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Champion of Bremen Prenier League(BPL)",
+          "date": "2 day ago",
+          "category": "Sports and Fitness",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/2nXjBst/Screenshot-2024-01-25-at-07-49-32.png",
+          "postDrescription": "'Back-to-Back champion' of Bremen Premier League (BPL) - (2023-2022) Luisental Rocks -(2023) Bremen Vikings - (2022)",
+
+          "reaction": true,
+          "hashTag": ["#cricket", "#sports"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "userName": "Jonty Hopkins",
+      "profilePicture": "https://i.ibb.co/pjfHZfr/Screenshot-2024-01-30-at-19-36-17.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "My solopreneur story",
+          "date": "Just now",
+          "category": "Entrepreneurship",
+          "readTime": "1 min",
+          "postImage": "https://i.ibb.co/Q8ZLst3/Screenshot-2024-01-30-at-19-35-59.png",
+          "postDrescription": "My entrepreneurship journey started in 2016 when I believed I was Mark Zuckerberg. It took 2 years to make my first $1 online. Later, I grew a SaaS to $3,000 MRR, but I started to see my journey as a failure after 4 years of grind. I got depressed in 2021 and quit entrepreneurship. I worked for Tai Lopez as a product manager to overcome my depression. It worked because I finally had a sense of purpose. When I got fired in November 2021, it didn’t matter. I had a dream. I discovered my role models on Twitter: Pieter Levels, Danny Postma, and other cool kids working solo on their projects from anywhere in the world, making much more money than needed to live comfortably. I wanted freedom. I was living in Bali, $20,000 in the bank, no audience, and bad coding skills.",
+
+          "reaction": true,
+          "hashTag": ["#StartUp", "#IloveStartup"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "userName": "Surinder Pankraz",
+      "profilePicture": "https://i.ibb.co/DCFDTsW/download-8.jpg",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Embarking on a New Journey: Launching 'EcoTech Innovations'",
+          "date": "1 day ago",
+          "category": "Entrepreneurship",
+          "readTime": "4 min",
+          "postImage": "https://i.ibb.co/0jHt2qQ/Screenshot-2024-01-22-at-09-34-39.png",
+          "postDrescription": "🚀 Exciting News! Today marks the beginning of a new chapter as I officially launch my startup, 'EcoTech Innovations.' The journey from ideation to execution has been an exhilarating adventure, and I'm thrilled to share the vision behind this endeavor.",
+
+          "reaction": true,
+          "hashTags": ["#EcoTechInnovations", "#SustainableStartup"]
+        }
+      ]
+    },
+
+    {
+      "id": 32,
+      "userName": "Bryan Golden",
+      "profilePicture": "https://i.ibb.co/4dQT20c/Screenshot-2024-02-06-at-11-03-49.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Story of my start-up buisness in this competative food market",
+          "date": "1 day ago",
+          "category": "Entrepreneurship",
+          "readTime": "4 min",
+          "postImage": "",
+          "postDrescription": "In the span of a year, my journey of launching a food business has been a rollercoaster of challenges and triumphs. Starting with a passion for culinary arts and a vision for a unique food experience, I navigated through the complexities of the industry. The initial phase involved extensive market research to understand consumer preferences and identify gaps in the market. With a solid business plan in place, I tackled the logistical hurdles of sourcing quality ingredients, establishing relationships with suppliers, and setting up a kitchen space. Building an online presence through social media and a user-friendly website played a pivotal role in reaching a wider audience. As the business gained momentum, customer feedback became a valuable tool for refining the menu and enhancing the overall dining experience. Collaborations with local events and food festivals helped to expand the brand's visibility. Despite facing unforeseen challenges, the first year marked significant milestones and growth, emphasizing the importance of adaptability, resilience, and a genuine passion for the culinary craft in the demanding and rewarding world of food entrepreneurship.",
+
+          "reaction": true,
+          "hashTags": ["#food", "#Startup"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "userName": "Ghufran Imram",
+      "profilePicture": "https://i.ibb.co/x2N3CKR/5.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Launched My First Mobile App",
+          "date": "1 day ago",
+          "category": "Technology",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/jbNvjkg/Screenshot-2024-01-22-at-09-21-17.png",
+          "postDrescription": "After months of coding and testing, I finally launched my first mobile app! It's a productivity tool to help users stay organized. Excited to see it in action!",
+
+          "reaction": true,
+          "hashTag": ["#programming", "#loveprogramming"]
+        }
+      ]
+    },
+
+    {
+      "id": 35,
+      "userName": "Olive Klein",
+      "profilePicture": "https://i.ibb.co/ftw7HrX/Screenshot-2024-02-06-at-11-18-13.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "AI's Revolutionary Leap in Healthcare",
+          "date": "1 day ago",
+          "category": "Technology",
+          "readTime": "3 min",
+          "postImage": "",
+          "postDrescription": "As i am exploring in the field of technology, join me in this journey and lets dive into the cutting-edge world of Artificial Intelligence (AI) in the medical field. Witness the transformative power of AI algorithms in diagnostics, personalized treatment plans, and patient care. From machine learning-driven predictions to image recognition enhancing medical imaging, the future of healthcare is being redefined. Stay tuned for a closer look at how AI is becoming an indispensable partner in the quest for improved medical outcomes and patient well-being.",
+
+          "reaction": true,
+          "hashTag": ["#AI", "#Technology"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "userName": "Ricardo Ferguson",
+      "profilePicture": "https://i.ibb.co/Zg71WNs/Screenshot-2024-02-06-at-11-21-51.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Cracked the Code!",
+          "date": "1 day ago",
+          "category": "Technology",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/svM5NDG/Screenshot-2024-02-06-at-11-20-19.png",
+          "postDrescription": "Just had a mini victory in my coding journey and I couldn't be more stoked! After hours of head-scratching and debugging, I finally cracked that pesky bug in my code. It might seem like a small win in the grand scheme of things, but hey, progress is progress, right? Here's to embracing the challenges, celebrating the victories, and geeking out over lines of code like a boss!",
+
+          "reaction": true,
+          "hashTag": ["#AI", "#Technology"]
+        }
+      ]
+    },
+
+    {
+      "id": 38,
+      "userName": "Shima shakshi",
+      "profilePicture": "https://i.ibb.co/DRvtq4T/Screenshot-2024-02-06-at-11-26-18.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "The Transformative Power of Daily Meditation",
+          "date": "1 day ago",
+          "category": "Yoga and Meditation",
+          "readTime": "3 min",
+          "postImage": "https://i.ibb.co/DRvtq4T/Screenshot-2024-02-06-at-11-26-18.png",
+          "postDrescription": "Hey everyone! 🌟 Sharing a personal transformation journey with you – my daily meditation practice. Each day, I intentionally carve out time for quiet reflection and mindfulness, and the impact has been remarkable. From heightened focus and mental clarity to an overwhelming sense of peace, meditation has become my daily anchor. It's more than a routine; it's a profound shift in my daily life. Let's explore this transformative journey together, discovering the power of stillness and mindfulness that brings positive changes to our lives.",
+          "reaction": false,
+          "hashTags": ["#MindfulMeditation", "#InnerPeace", "#WellnessJourney"]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "userName": "Yonzee lee",
+      "profilePicture": "https://i.ibb.co/Jd4DhqC/Screenshot-2024-02-06-at-11-32-20.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Celebrating a Three-Month Yoga Journey - A Personal Achievement Unlocked",
+          "date": "3 day ago",
+          "category": "Yoga and Meditation",
+          "readTime": "5 min",
+          "postImage": "https://i.ibb.co/hDyBKwf/Screenshot-2024-02-06-at-11-26-04.png",
+          "postDrescription": "Hey All!! Today is a special day as it marks a significant milestone in my wellness journey – I've successfully completed three months of dedicated yoga classes! From conquering challenging poses to delving into the profound connection between my mind and body, this journey has truly transformed me. Yoga has not only improved my flexibility and strength but has also become a pillar of mental resilience. I'm excited to share this achievement with you and invite you to celebrate with me. It's not just about physical milestones; it's about unlocking a new chapter of holistic well-being through the wisdom of this ancient practice. Let's cheers to health, balance, and the continuous journey towards the best version of ourselves!",
+          "reaction": false,
+          "hashTags": ["#Wellness", "#transformation", "#WellnessJourney"]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "userName": "Edie Hendricks",
+      "profilePicture": "https://i.ibb.co/gVzDwBz/Screenshot-2024-02-06-at-11-34-43.png",
+      "followStatus": "Unfollow",
+      "posts": [
+        {
+          "title": "Completing 30 days of Yoga!",
+          "date": "",
+          "category": "Yoga and Meditation",
+          "readTime": "5 min",
+          "postImage": "",
+          "postDrescription": "I did the 30 yoga challenge today! I have to say it came with a lot of benefits! I got some flexibility, there is a bit more definition in my abdomen. I think I'm handelling anxiety better. I will continue doing it daily through February since feel like I am getting fitter and lost twelve Ibs. I am adding arm exercises to try and help my upper body strength. My goal is to get to ten full push-ups by the end of the year which feels attainable with more work. Excited for the next 30 days!",
+          "reaction": false,
+          "hashTags": ["#Yoga", "#InnerPeace", "#WellnessJourney"]
+        }
+      ]
+    }
+  ]
+}
